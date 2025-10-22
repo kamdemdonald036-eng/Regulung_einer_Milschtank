@@ -1,4 +1,4 @@
-# Regulung_einer_Milschtank
+# Regulung_einer_Mischtank
 # 🧠 MPC Tank Projekt 2024  
 **Modul:** Höhere Regelungstechnik und Modellierung  
 **Hochschule:** Fachhochschule Westküste  
